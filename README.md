@@ -1,11 +1,11 @@
 # SelectionView
-![ICON](https://github.com/AlexMofer/ProjectX/blob/master/selectionview/icon.png)
+![ICON](https://raw.githubusercontent.com/AlexMofer/ProjectX/master/selectionview/icon.png)
 
 项目详细地址：[**ProjectX**](https://github.com/AlexMofer/ProjectX/tree/master/selectionview)(方便统一管理)
 
 快速跳选View，与列表视图搭配使用（ListView、RecyclerView），常用于联系人列表快速选取。
 ## 预览
-![Screenshots](https://github.com/AlexMofer/ProjectX/blob/master/selectionview/screenshots.gif)
+![Screenshots](https://raw.githubusercontent.com/AlexMofer/ProjectX/master/selectionview/screenshots.gif)
 ## 要求
 minSdkVersion 4
 ## 引用
